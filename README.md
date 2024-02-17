@@ -1,2 +1,2 @@
 # Task-Manager
-Task management application that allows users to add, delete, update, and categorize tasks. 
+Task management application that allows users to create, view, edit, and delete tasks.
